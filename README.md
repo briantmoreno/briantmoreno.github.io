@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Technical Skills: Python|SQL|Pandas|Numpy|Matplotlib/Seaborn|Scikit-learn|XGBoost|CatBoost|LightGBM|Optuna
+### Technical Skills: Python (_pandas, numpy, scikit-learn, matplotlib, seaborn_), SQL (_MySQL_), ML (_regression, classification, clustering_)
 
 ## Education
 - Bootcamp, Data Science | Tripleten | (_December 2025_)
