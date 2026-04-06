@@ -22,14 +22,19 @@
 
 ## Projects
 ### ML model to predict the amount of gold extracted from gold ore for the heavy industry (_2025_)
-[GitHub Repository link](https://github.com/briantmoreno/ml_model_to_predict_amount_of_gold_mined.git)
+[GitHub Repository Link](https://github.com/briantmoreno/ml_model_to_predict_amount_of_gold_mined.git)
 
 Analyzed and cleaned the data from extraction and purification processes of gold ore to developed a machine learning model to predict the final amount of gold obtained. Achieved a final sMAPE (symmetric mean absolute
 percentage error) score of aprox. 0.76 in gold amount predictions.
 
 ### ML model to predict the customer cancellation rate for a telecommunications operator (_2025_)
-[GitHub Repository link](https://github.com/briantmoreno/ml_model_to_predict_customer_cancellation_rate.git)
+[GitHub Repository Link](https://github.com/briantmoreno/ml_model_to_predict_customer_cancellation_rate.git)
 
 Analyzed and cleaned personal customer data from a telecommunications operator to developed a machine
 learning model to predict the customer cancellation rate. Achieved a final accuracy score of aprox. 0.85 in
 customer’s cancellation rate prediction.
+
+### Forecasting an energy consumption time series (_2026_)
+[GitHub Repository Link](https://github.com/briantmoreno/energy_consumption_time_series_forecasting.git)
+
+Analyzed and applied different techniques in a time series data in order to be able to make predictions about the energy consumption over time based on historical data. Tried several techniques, and combination of some, to make it stationary before forecasting any data. Finally, when stationary is reached, SARIMAX model was used to forecast the data and executed some metrics to evaluate the results. Achieved a MAPE of ~5.40% and learned about time series and how to make reliable predictions.
